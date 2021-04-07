@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      0day漏洞学习：一个小crack实验
+title:      0day漏洞学习（一）：一个小crack实验
 subtitle:   一个小crack。
 date:       2021-04-07
 author:     Hongtai S
-header-img: img/post-bg-article.jpg
+header-img: img/post-bg-miui6.jpg
 catalog: true
 tags:
     - 漏洞

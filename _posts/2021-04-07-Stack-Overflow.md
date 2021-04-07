@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      0day漏洞学习：栈溢出突破密码验证
-subtitle:   一个小crack。
+title:      0day漏洞学习（二）：栈溢出突破密码验证
+subtitle:   利用栈溢出突破验证程序。
 date:       2021-04-07
 author:     Hongtai S
-header-img: img/post-bg-article.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - 漏洞
