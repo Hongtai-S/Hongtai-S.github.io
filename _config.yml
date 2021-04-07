@@ -18,8 +18,8 @@ sidebar-avatar: /img/Hongtai-S.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     比尼玛还耀眼儿
-zhihu_username:     小特特
+weibo_username:     u/5817464198/home
+zhihu_username:     xiao-te-te-89
 github_username:    Hongtai-S
 # facebook_username:  username
 # jianshu_username:   jianshu_id
@@ -60,11 +60,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ae47d898c3d118b467be                            #生成的clientID
-  clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: Hongtai-S.github.io    #仓库名称
-  owner: Hongtai-S    #github用户名
-  admin: Hongtai-S
+  clientID: 2580edd1397aa956e511                            #生成的clientID
+  clientSecret: ceb6a103c189ba0b5f8482d0d03f0218d80fe056    #生成的clientSecret
+  repo: 'commits'    #仓库名称
+  owner: 'Hongtai-S'    #github用户名
+  admin: ['Hongtai-S']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -72,7 +72,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: f06464826c5bf46ff96608ea2be3945a
+ba_track_id: f06464826c5bf46ff96608ea2be3945a
 
 # Google Analytics
 #ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
