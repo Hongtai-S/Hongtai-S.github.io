@@ -13,40 +13,40 @@ tags:
 ---
 
 首先是一段用C编写的密码验证小程序：
+```cpp,c
+#include<stdio.h>
+#include<string.h>
+#define PASSWORD "1234567"
+int verify_password(char *password)
+{
+	int authenticated;
+	authenticated = strcmp(password,PASSWORD);
+	return authenticated;
+}
 
-    #include<stdio.h>
-    #include<string.h>
-    #define PASSWORD "1234567"
-    int verify_password(char *password)
-    {
-    	int authenticated;
-    	authenticated = strcmp(password,PASSWORD);
-    	return authenticated;
-    }
-    
-    int main()
-    {
-    	int valid_flag = 0;
-    	char password[1024];
-    	while(1)
-    	{
-    		printf("Please input password:");
-    		scanf("%s",password);
-    		valid_flag = verify_password(password);
-    		if (valid_flag)
-    		{
-    			printf("incorrect password!\n\n");
-    		}
-    		else
-    		{
-    			printf("Congratulation!passed!\n");
-    			break;
-    		}
-    	}
-    	return 0;
-    }
-    
+int main()
+{
+	int valid_flag = 0;
+	char password[1024];
+	while(1)
+	{
+		printf("Please input password:");
+		scanf("%s",password);
+		valid_flag = verify_password(password);
+		if (valid_flag)
+		{
+			printf("incorrect password!\n\n");
+		}
+		else
+		{
+			printf("Congratulation!passed!\n");
+			break;
+		}
+	}
+	return 0;
+}
 
+```
 
 正确输入密码“1234567”才能通过验证。
 
