@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Tai&apos;s Blog</title>
+    <description>Every failure is leading towards success.</description>
+    <link>https://hongtai-s.github.io//</link>
+    <atom:link href="https://hongtai-s.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 07 Apr 2021 16:04:25 +0800</pubDate>
+    <lastBuildDate>Wed, 07 Apr 2021 16:04:25 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>图片测试</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/04/07/KpyEsL2dTX8Vqbv.jpg&quot; alt=&quot;hua&quot; title=&quot;hua&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Apr 2021 00:00:00 +0800</pubDate>
+        <link>https://hongtai-s.github.io//2021/04/07/Picture/</link>
+        <guid isPermaLink="true">https://hongtai-s.github.io//2021/04/07/Picture/</guid>
+        
+        <category>测试</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
