@@ -60,7 +60,7 @@ tags:
 
 ![ida2.PNG](https://i.loli.net/2021/04/07/3z8w1WGvgcDAx4I.png)
 
-if语句通过jz实现，因此改点很可能是验证语句
+if语句通过jz实现，因此该条指令很可能是验证语句
 
 将可执行文件拖入ollydbg，ctrl + G搜索这条指令的地址0x0x004010D5
 
