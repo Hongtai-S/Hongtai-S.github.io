@@ -9,7 +9,7 @@ catalog: true
 tags:
     - 漏洞
     - 二进制
-    - 代码注入
+    - shellcode
 ---
 
 # 理论分析 #
