@@ -15,6 +15,7 @@ tags:
 #### 1. 防止shellcode中的push操作破坏自身
 
 （1）减少shellcode的占用空间，增加下方的空间。
+
 （2）使用“跳板”，让压栈数据位于shellcode上方。
 
 #### 2. 动态定位API
