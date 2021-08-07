@@ -41,6 +41,8 @@ gdb动态调试验证：
 
 ![5.PNG](https://i.loli.net/2021/08/07/iBRWqTX86PlJdGv.png)
 
+![6.PNG](https://i.loli.net/2021/08/07/BqTnkwOFS8pX7VE.png)
+
 可以看到从字符串起止地址覆盖到返回地址总共需要20个字符，与实际情况相符。
 
 ## 编写脚本 ##
