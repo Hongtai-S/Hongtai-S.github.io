@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      恶意软件分析：Gh0st分析
+title:      恶意软件分析（一）：Gh0st分析
 subtitle:   典型远程控制恶意软件
 date:       2022-01-04
 author:     Hongtai S
