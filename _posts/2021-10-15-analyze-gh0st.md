@@ -2,7 +2,7 @@
 layout:     post
 title:      恶意软件分析（一）：Gh0st分析
 subtitle:   典型远程控制恶意软件
-date:       2022-01-04
+date:       2021-10-15
 author:     Hongtai S
 header-img: img/16.jpg
 catalog: true
@@ -14,6 +14,12 @@ tags:
 # 样本基本信息
 
 样本文件名称：23c55e32ba9a9ebf54fb47cd198a4d73.bin
+
+样本MD5：23c55e32ba9a9ebf54fb47cd198a4d73
+
+样本SHA-1：5b6b862a847e482ed47e0f4553a691e3a2f2e6b3
+
+样本SHA-256：7187ae94c4503078cfff72426903ac501c4830f186673be4c54f73c95b054219
 
 样本文件类型：使用exeinfope查看文件类型：
 
