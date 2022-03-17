@@ -12,7 +12,7 @@ github_repo: "https://github.com/Hongtai-S/Hongtai-S.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "远在天边，近在咫尺。"
-sidebar-avatar: /img/Hongtai-S.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
